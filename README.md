@@ -35,7 +35,7 @@ The primary objectives of this project are:
 
 - 💰 **Copiers** generated the highest total profit among the analyzed categories, with **19,327.24**.
 - 📅 **December** recorded the highest monthly sales at **115,934.54**, followed by **November** with **92,988.92**.
-- 📍 **Washington** recorded **138,641.27** in sales and **33,402.65** in profit.
+- 📍 **California** recorded the highest sales **457,607.73** and profit **76,346.23**, followed by **Washington** with sales of **138,641.27** and profit of **33,402.65**.
 - 📦 **Staples** had the highest total quantity sold among the products analyzed.
 - 🚚 **Ship Time** was analyzed to understand delivery efficiency and its relationship with business performance.
 
