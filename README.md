@@ -64,10 +64,15 @@ The primary objectives of this project are:
 ## 💡 Business Recommendations
 
 🔹 Focus on high-performing categories such as **Copiers** to strengthen profitability.
+
 🔹 Review loss-making products and improve their pricing, discounts, or cost structure.
+
 🔹 Increase inventory and marketing efforts during high-sales months, especially November and December.
+
 🔹 Focus on high-volume categories such as Binders to maintain strong sales performance.
+
 🔹 Prioritize California and Washington markets due to their strong sales and profit contribution.
+
 🔹 Optimize shipping operations, although the analysis shows very weak relationship between shipping time and profit.
 
 ## 📈 Learning Outcome
